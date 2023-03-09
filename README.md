@@ -20,6 +20,6 @@ Now the sketch is ready to be compiled and executed by the board.
 To setup the mobile device, the following steps need to be followed:
 
 - Install Visual Studio Code.
-- Install the Flutter plugin.
+- Install the Flutter plugin (Flutter SDK 3.0.5)
 - Open the safe_plant (inside the folder client in this repository).
 - Now the client application is ready to be debugged on a device.
